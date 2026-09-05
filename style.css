@@ -127,7 +127,7 @@ margin-left: 30px;
 .para{
     text-transform: none;
     color: black;
-    font-size: 15px;
+    font-size: 10px;
     text-align: center;
     line-height:1.8;
     margin:0;
@@ -145,7 +145,7 @@ margin-left: 30px;
     width: 20px;
 }
 .socialicons{
-    margin-top:20px;
+    margin-top: 20px;
     display: flex;
     margin-left:170px;
 }
